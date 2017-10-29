@@ -1,0 +1,75 @@
+﻿<PostcodeNearbyStationsResponse xmlns="http://www.carmensystems.com/iptis/rtti">
+  <PostcodeNearbyStationsRequest xmlns="http://www.carmensystems.com/iptis/rtti" Version="16" RequestId="1" Channel="TrainPlanner">
+    <Postcode>AB107AP</Postcode>
+  </PostcodeNearbyStationsRequest>
+  <SearchStatus Code="0">
+    <Message>Success</Message>
+  </SearchStatus>
+  <PerformanceInformation>
+    <TimeStamp>2014-01-30T04:17:00</TimeStamp>
+    <PreprocessingWait>5021</PreprocessingWait>
+    <ProcessingTime>19</ProcessingTime>
+    <ComputerName>IPTISRTJP1</ComputerName>
+    <InstanceId>0</InstanceId>
+  </PerformanceInformation>
+  <Postcode Value="AB107AP">
+    <Coordinate X="391263" Y="803146" />
+  </Postcode>
+  <PostcodeStationList>
+    <PostcodeStationWithCoord>
+      <Crs>ABD</Crs>
+      <Distance units="miles">2.70</Distance>
+      <Coordinate X="394109" Y="805933" />
+    </PostcodeStationWithCoord>
+    <PostcodeStationWithCoord>
+      <Crs>PLN</Crs>
+      <Distance units="miles">6.04</Distance>
+      <Coordinate X="392360" Y="796759" />
+    </PostcodeStationWithCoord>
+    <PostcodeStationWithCoord>
+      <Crs>STN</Crs>
+      <Distance units="miles">13.91</Distance>
+      <Coordinate X="386401" Y="786187" />
+    </PostcodeStationWithCoord>
+    <PostcodeStationWithCoord>
+      <Crs>DYC</Crs>
+      <Distance units="miles">7.99</Distance>
+      <Coordinate X="388468" Y="812759" />
+    </PostcodeStationWithCoord>
+    <PostcodeStationWithCoord>
+      <Crs>INR</Crs>
+      <Distance units="miles">17.66</Distance>
+      <Coordinate X="377577" Y="821810" />
+    </PostcodeStationWithCoord>
+    <PostcodeStationWithCoord>
+      <Crs>INS</Crs>
+      <Distance units="miles">27.51</Distance>
+      <Coordinate X="362957" Y="827611" />
+    </PostcodeStationWithCoord>
+    <PostcodeStationWithCoord>
+      <Crs>LAU</Crs>
+      <Distance units="miles">28.14</Distance>
+      <Coordinate X="370900" Y="770900" />
+    </PostcodeStationWithCoord>
+    <PostcodeStationWithCoord>
+      <Crs>MTS</Crs>
+      <Distance units="miles">35.80</Distance>
+      <Coordinate X="371210" Y="758004" />
+    </PostcodeStationWithCoord>
+    <PostcodeStationWithCoord>
+      <Crs>HNT</Crs>
+      <Distance units="miles">37.92</Distance>
+      <Coordinate X="353536" Y="839636" />
+    </PostcodeStationWithCoord>
+    <PostcodeStationWithCoord>
+      <Crs>ARB</Crs>
+      <Distance units="miles">48.15</Distance>
+      <Coordinate X="363871" Y="740961" />
+    </PostcodeStationWithCoord>
+    <PostcodeStationWithCoord>
+      <Crs>KEH</Crs>
+      <Distance units="miles">49.57</Distance>
+      <Coordinate X="343007" Y="851667" />
+    </PostcodeStationWithCoord>
+  </PostcodeStationList>
+</PostcodeNearbyStationsResponse>
